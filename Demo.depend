@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469524053 source:c:\users\personal\saved games\desktop\c++\c++ projects\demo\main.cpp
+	"classes.h"
+
+1469523865 c:\users\personal\saved games\desktop\c++\c++ projects\demo\classes.h
+	<iostream>
+	<string>
+
